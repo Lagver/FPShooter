@@ -94,6 +94,14 @@
 				"Win64",
 				"Linux"
 			]
+		},
+		{
+			"Name": "Volumetrics",
+			"Enabled": true
+		},
+		{
+			"Name": "BlueprintStats",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
